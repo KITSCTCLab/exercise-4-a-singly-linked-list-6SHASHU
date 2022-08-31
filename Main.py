@@ -56,8 +56,7 @@ class Solution:
             num = str(curr.data) + num
             curr = curr.next
         return int(num)
-
-# Do not edit the following code      
+  
 # Create an instance for LinkedList
 first_list = LinkedList()
 # Create an another instance for LinkedList
